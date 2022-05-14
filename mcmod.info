@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "feather",
+    "name": "Feather Client",
+    "description": "Feather Client",
+    "version": "1.0.0-SNAPSHOT",
+    "mcversion": "1.8.9",
+    "url": "https://www.feathermc.com",
+    "updateUrl": "",
+    "authorList": [
+      "FeatherMC"
+    ],
+    "logoFile": "feather_logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

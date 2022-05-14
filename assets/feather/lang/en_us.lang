@@ -1,0 +1,39 @@
+#PARSE_ESCAPES
+feather.commands.targetNotFound=§cThe player couldn't be found.
+
+# === Party translation keys ===
+feather.commands.featherparty.receivedInvite=§aYou have received an invite to a feather party from %s.
+feather.commands.featherparty.inviteDenied=§c%s has denied your feather party invite.
+feather.commands.featherparty.kicked=§cYou were kicked from the party.
+
+feather.commands.featherparty.alreadyInParty=§cYou are already member of a party.
+feather.commands.featherparty.notInParty=§cYou are not member of a party.
+feather.commands.featherparty.notLeader=§cYou are not leader of the party.
+
+feather.commands.featherparty.base.usage=§8~~ §7Feather Party §8~~\n§7/featherparty create §8- §7Create a party\n§7/featherparty invite (name) §8- §7Invite a player to your party\n§7/featherparty remove (name) §8- §7Kick a player from your party\n§7/featherparty leader (name) §8- §7Transfer the leader status to §7another player\n§7/featherparty mode (normal/proximity) §8- §7Set the voice mode §7to either global (normal) or proximity mode\n\n§7/featherparty info §8- §7Show information about your current §7party\n§7/featherparty leave §8- §7Leave your current party\n§7/featherparty accept §8- §7Accept last party invite\n§7/featherparty accept (name) §8- §7Accept the party invite from §7the player\n§7/featherparty deny §8- §7Deny last party invite\n§7/featherparty deny (player) §8- §7Deny the party invite from the §7player
+feather.commands.featherparty.mode.usage=§7/featherparty mode (normal/proximity)
+feather.commands.featherparty.invite.usage=§7/featherparty invite (name)
+feather.commands.featherparty.remove.usage=§7/featherparty remove (name)
+
+feather.commands.featherparty.create.success=§aYou have successfully created a party.
+feather.commands.featherparty.invite.success=§aYou have invited %s to the party.
+feather.commands.featherparty.remove.success=§cYou have removed %s from the party.
+feather.commands.featherparty.mode.successNormal=§aYou have set the party speech mode to §7Normal§a.
+feather.commands.featherparty.mode.successProximity=§aYou have set the party speech mode to §7Proximity§a.
+
+feather.commands.featherparty.accept.success=§aYou have accepted the party invite.
+feather.commands.featherparty.deny.success=§cYou have denied the party invite.
+feather.commands.featherparty.leave.success=§cYou have left the party.
+
+feather.commands.featherparty.info.heading=§8~~ §7Feather Party §8~~
+feather.commands.featherparty.info.modeEveryone=§bSpeech mode: §7Normal / Global
+feather.commands.featherparty.info.modeProximity=§bSpeech mode: §7Proximity
+feather.commands.featherparty.info.owner=§b§lOwner: §7§l%s
+feather.commands.featherparty.info.member=§bMember: §7%s
+
+feather.commands.featherparty.error.targetAlreadyInParty=§cThe player is already member of a party.
+feather.commands.featherparty.error.targetAlreadyInvited=§cThe player is already invited to your party.
+feather.commands.featherparty.error.targetNotInParty=§cThe player is not in your party.
+feather.commands.featherparty.error.alreadyInParty=§cYou are already member of a party.
+feather.commands.featherparty.error.inviteNotFound=§cNo party invite was found.
+feather.commands.featherparty.error.partyNotExistent=§cThe party was not found.

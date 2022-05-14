@@ -1,0 +1,13 @@
+modLoader = "javafml"
+loaderVersion = "(1,)"
+license = "All rights reserved"
+showAsResourcePack = false
+
+[[mods]]
+modId = "feather"
+version = "${version}"
+displayName = "Feather Client"
+displayURL = "feathermc.com"
+logoFile = "feather_logo.png"
+authors = "FeatherMC"
+description = '''Feather Client'''

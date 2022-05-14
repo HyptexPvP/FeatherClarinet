@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.7.10",
+  "package": "net.digitalingot.feather.mixin.core",
+  "refmap": "mixins.feather.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "IMixinAbstractGui",
+    "IMixinChatComponent",
+    "IMixinContainerLocalRenderInformation",
+    "IMixinEntityRenderer",
+    "IMixinFontRenderer",
+    "IMixinFoodStats",
+    "IMixinKeyMapping",
+    "IMixinMinecraft",
+    "IMixinRenderGlobal",
+    "IMixinScreen",
+    "IMixinSimpleReloadableResourceManager",
+    "IMixinTextComponent",
+    "IMixinTranslatableComponent"
+  ]
+}
